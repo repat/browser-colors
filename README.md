@@ -164,7 +164,7 @@ YellowGreen: #9ACD32
 * MIT, see [LICENSE](https://github.com/repat/browser-colors/blob/master/LICENSE)
 
 ## Version
-* Version 0.1
+* Version 1.0
 
 ## Contact
 #### repat

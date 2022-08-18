@@ -4,7 +4,7 @@
     "keywords": ["browser", "color", "html", "css", "hex"],
     "homepage": "http://repat.de",
     "license": "MIT",
-    "version" : "0.1",
+    "version" : "1.0",
     "authors": [
         {"name": "repat", "email": "repat@repat.de"}
     ],
