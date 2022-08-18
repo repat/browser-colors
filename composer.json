@@ -1,0 +1,21 @@
+{
+    "name": "repat/browser-colors",
+    "description": "List of default supported colors and their names by all major browsers",
+    "keywords": ["browser", "color", "html", "css", "hex"],
+    "homepage": "http://repat.de",
+    "license": "MIT",
+    "version" : "0.1",
+    "authors": [
+        {"name": "repat", "email": "repat@repat.de"}
+    ],
+	"type": "library",
+    "require": {
+		"php": ">=5.6"
+	},
+    "autoload": {
+        "files" : [
+            "browser-colors.php"
+        ]
+    },
+    "minimum-stability" : "dev"
+}
